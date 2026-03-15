@@ -1259,7 +1259,7 @@ details[open] .faq-question {
 
 /* ===== Footer ===== */
 .footer {
-    background: var(--white);
+    background: rgba(245, 222, 179, 0.158);
     color: var(--dark-text);
     padding: var(--space-3xl) 0 var(--space-md);
 }
